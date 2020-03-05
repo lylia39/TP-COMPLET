@@ -1,0 +1,54 @@
+table{
+  border: 1px black solid;
+  border-collapse: collapse;
+  color:black;
+}
+td{
+  border: 1px black solid;
+  font-style: italic;
+}
+tr{
+  font-size:0.9em;
+  background:#ff56b1;
+}
+
+.aside{
+  width: 35%;
+}
+body{
+  font: Arial, sans-serif ;
+  color:  #4D4D4D ;
+  margin:50px;
+  background-image: url('fond-gris.jpg');
+}
+.header{
+  padding:10px;
+  background:#ff564d;
+}
+.section{
+  padding: 10px;
+  background: #00befc;
+}
+.aside{
+  padding: 10px;
+  background: #ffd834;
+}
+.aside:last-of-type{
+background:#ff56b1;
+border-color: #ffd834
+}
+.footer{
+  padding: 10px;
+  background: #8df493;
+}
+img{
+   opacity:0.6;
+}
+ol{
+background:#ff56b1;
+}
+table:last-of-type th{
+  border:3px #ffd834 solid;
+  width: 100px;
+  height: 60px;
+}

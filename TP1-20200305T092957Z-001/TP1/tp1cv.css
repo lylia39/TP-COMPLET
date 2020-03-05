@@ -1,0 +1,47 @@
+body{
+  font-family: arial sans-serif;
+  font-weight: bolder;
+}
+h1{
+  color: #000080;
+  font-variant: small-caps
+}
+h2{
+  color:#000080;
+  font-variant: small-caps;
+
+}
+th,td:first-of-type{
+  background-color :#cfe2f8;
+}
+table, th, td{
+  border: 2px solid blue;
+  border-collapse: collapse;
+}
+
+br{
+  float: left;
+}
+hr{
+  opacity: 0.33;
+}
+dt{
+  font-style: italic;
+}
+a{
+background-color:#cfe2f8;
+}
+dd{
+  font-weight: normal;
+}
+p{
+  font-weight: normal;
+  margin: 0px;
+}
+ul{
+  margin: 0px;
+}
+li{
+  font-weight: normal;
+margin: 0px;
+}

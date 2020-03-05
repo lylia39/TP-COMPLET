@@ -1,0 +1,20 @@
+body {
+background-color: white;
+border-color: red;
+}
+p {
+  color:white;
+  background-color: #505070;
+  border-width:2px;
+  border-color: green;
+  padding: 30px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.p:last-of-type {
+  background-color: #505070;
+  border-width:200px;
+  border-color: green;
+  padding: 30px;
+  vertical-align: top;
+}
